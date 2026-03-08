@@ -232,5 +232,3 @@ AI & Computer Vision Enthusiast
 Combining Badminton and Artificial Intelligence
 
 
-Tell me what you need next 👌
-
