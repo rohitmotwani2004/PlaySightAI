@@ -1,0 +1,10 @@
+models:
+  court: "models/yolov8-court.pt"
+  player: "models/yolov8-player.pt"
+  shuttle: "models/tracknet_v2.pth"
+video:
+  input_dir: "data/raw"
+  output_dir: "data/processed"
+thresholds:
+  detection_confidence: 0.4
+  nms_iou: 0.5
