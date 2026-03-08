@@ -1,20 +1,6 @@
-Perfect Rohit 👌
-Here is your **final professional README.md** including:
 
-* Project overview
-* Features
-* Court model (95.5%)
-* Shuttle model (88.4%)
-* Architecture explanation
-* Installation steps
-* Output details
-* Clean structure
 
-You can copy-paste this directly into GitHub.
-
----
-
-# 🏸 Badminton Analysis System
+# 🏸 PLAYSIGHTAI
 
 AI-powered real-time badminton shot detection and performance analysis using Computer Vision and Deep Learning.
 
@@ -247,3 +233,4 @@ Combining Badminton and Artificial Intelligence
 
 
 Tell me what you need next 👌
+
